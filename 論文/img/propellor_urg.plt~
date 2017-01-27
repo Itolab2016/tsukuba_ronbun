@@ -1,0 +1,8 @@
+set xlabel "Time(s)"
+set ylabel "Distance(mm)"
+set grid
+unset key
+set terminal postscript eps "Times-Roman,30" 
+set output "prourg.eps"
+plot "slowdata.csv" pt 7 ps 0.5
+set terminal wxt
