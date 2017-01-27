@@ -67,3 +67,14 @@
 \contentsline {subsection}{\numberline {.1.5}CMake-guiを以下の手順で操作する}{38}
 \contentsline {subsection}{\numberline {.1.6}OpenCVをコンパイル,インストールする}{39}
 \contentsline {subsection}{\numberline {.1.7}共有ライブラリの依存情報を更新して終了}{39}
+\contentsline {section}{\numberline {.2}ロボットの起動方法}{39}
+\contentsline {subsection}{\numberline {.2.1}起動}{39}
+\contentsline {subsection}{\numberline {.2.2}無線通信}{39}
+\contentsline {section}{\numberline {.3}機械の整備}{40}
+\contentsline {subsection}{\numberline {.3.1}必要な工具}{40}
+\contentsline {subsection}{\numberline {.3.2}分解方法}{40}
+\contentsline {subsubsection}{ポールとアクリル板の取り外し}{41}
+\contentsline {subsubsection}{DモジュールとCモジュールの分解}{41}
+\contentsline {subsubsection}{ポール分解}{41}
+\contentsline {subsubsection}{センサの取り外し}{41}
+\contentsline {subsubsection}{箱つめ}{42}

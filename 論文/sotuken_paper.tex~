@@ -366,7 +366,7 @@ FACは式(14)と式(18)より
 
 \begin{figure}[htp] 
  \begin{center} 
-  \includegraphics[width=130mm]{img/hard/kairozu.png} 
+  \includegraphics[width=140mm]{img/hard/kairozu.png} 
  　\caption{モータドライバ} 
   \label{fig:denkikairo}%ここに文章中で使用する名前を指定する 
  \end{center} 
