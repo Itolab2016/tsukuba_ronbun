@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2015.11.24)  27 JAN 2017 13:09
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2015.12.22)  27 JAN 2017 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -234,13 +234,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: image/motion.jpg Graphic file (type bmp)
 
 <image/motion.jpg>
-File: image/1.png Graphic file (type bmp)
- <image/1.png>
+File: image/12.png Graphic file (type bmp)
+ <image/12.png>
 File: image/2.png Graphic file (type bmp)
  <image/2.png> [6] (./ronbun0106.aux) ) 
 Here is how much of TeX's memory you used:
  1141 strings out of 495129
- 13411 string characters out of 6182594
+ 13413 string characters out of 6182594
  73604 words of memory out of 5000000
  4510 multiletter control sequences out of 15000+600000
  15086 words of font info for 67 fonts, out of 8000000 for 9000
