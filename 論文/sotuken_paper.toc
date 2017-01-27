@@ -72,9 +72,9 @@
 \contentsline {subsection}{\numberline {.2.2}無線通信}{39}
 \contentsline {section}{\numberline {.3}機械の整備}{40}
 \contentsline {subsection}{\numberline {.3.1}必要な工具}{40}
-\contentsline {subsection}{\numberline {.3.2}分解方法}{40}
-\contentsline {subsubsection}{ポールとアクリル板の取り外し}{41}
-\contentsline {subsubsection}{DモジュールとCモジュールの分解}{41}
-\contentsline {subsubsection}{ポール分解}{41}
-\contentsline {subsubsection}{センサの取り外し}{41}
-\contentsline {subsubsection}{箱つめ}{42}
+\contentsline {section}{\numberline {.4}分解方法}{40}
+\contentsline {subsection}{\numberline {.4.1}ポールとアクリル板の取り外し}{41}
+\contentsline {subsection}{\numberline {.4.2}DモジュールとCモジュールの分解}{41}
+\contentsline {subsection}{\numberline {.4.3}ポール分解}{42}
+\contentsline {subsection}{\numberline {.4.4}センサの取り外し}{42}
+\contentsline {subsection}{\numberline {.4.5}箱つめ}{42}
