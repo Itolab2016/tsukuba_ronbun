@@ -73,7 +73,7 @@
 \contentsline {subsection}{\numberline {C.1}必要な工具}{41}
 \contentsline {section}{\numberline {D}分解方法}{41}
 \contentsline {subsection}{\numberline {D.1}ポールとアクリル板の取り外し}{41}
-\contentsline {subsection}{\numberline {D.2}DモジュールとCモジュールの分解}{42}
-\contentsline {subsection}{\numberline {D.3}ポール分解}{42}
-\contentsline {subsection}{\numberline {D.4}センサの取り外し}{43}
-\contentsline {subsection}{\numberline {D.5}箱つめ}{43}
+\contentsline {subsection}{\numberline {D.2}DモジュールとCモジュールの分解}{43}
+\contentsline {subsection}{\numberline {D.3}ポール分解}{44}
+\contentsline {subsection}{\numberline {D.4}センサの取り外し}{47}
+\contentsline {subsection}{\numberline {D.5}箱つめ}{47}
