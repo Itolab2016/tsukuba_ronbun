@@ -1,12 +1,21 @@
 \section{ロボットの起動方法}
 ロボットが起動するまでに必要な手順を以下に示す.
-また,ロボットを起動する際に使用する操作パネルの写真を図\ref{fig:start_panel}に示す.さらに,起動用の外付けHDDを図\ref{fig:start_hdd}に示す.
+また,ロボットを起動する際に使用する操作パネルの写真を図\ref{fig:start_panel}に示す.さらに,起動用の外付けSSDを図\ref{fig:start_hdd}に示す.
 \subsection{起動}
 \begin{enumerate}
 \item　操作パネルのうち左上の電源スイッチをonにする.
 \item　起動用の外付けSSDが接続されていない場合のみキーボードを接続し「s」と入力する.
 \item ロボットから「ubuntuが起動しました」という音声が聞こえるまで待機する.
 \end{enumerate}
+
+\begin{figure}[htp]
+ \begin{center}
+  \includegraphics[width=80mm]{img/soft/DSC07946.jpg}
+ 　\caption{操作パネル}
+  \label{fig:start_panel}%ここに文章中で使用する名前を指定する
+ \end{center}
+\end{figure}
+
 \subsection{無線通信}
 \begin{enumerate}
 \item　使用するデバイスをロボットが接続しているネットワークと同じネットワークに接続する.
@@ -16,3 +25,5 @@
 \item 接続が完了するとデバイス側のユーザー名がロボットのユーザー名に切り替わる.
 \item 接続できない場合はロボットがネットワークに接続しているか確認する（ロボットのwifiドングルが機能しているかなど）.  
 \end{enumerate}
+
+

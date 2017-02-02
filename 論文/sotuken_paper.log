@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2015.12.22)  1 FEB 2017 14:29
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2015.11.24)  2 FEB 2017 17:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -516,17 +516,17 @@ File: img/soft/gps.png Graphic file (type bmp)
 ] [36
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 670.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 667.
 
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 670.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 667.
 
 [37
 
-] [38] (./start.tex
+] [38] [39] (./start.tex
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
@@ -539,13 +539,11 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 3.
 
 
-LaTeX Warning: Reference `fig:start_panel' on page 39 undefined on input line 3
-.
+LaTeX Warning: Reference `fig:start_hdd' on page 40 undefined on input line 3.
 
-
-LaTeX Warning: Reference `fig:start_hdd' on page 39 undefined on input line 3.
-
-[39]) (./kikai_huroku.tex [40] [41]) [42] (./sotuken_paper.aux)
+File: img/soft/DSC07946.jpg Graphic file (type bmp)
+<img/soft/DSC07946.jpg> [40]) (./kikai_huroku.tex [41] [42]) [43]
+(./sotuken_paper.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -554,12 +552,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2871 strings out of 495129
- 33786 string characters out of 6182594
+ 2873 strings out of 495129
+ 33819 string characters out of 6182594
  91881 words of memory out of 5000000
- 6096 multiletter control sequences out of 15000+600000
+ 6097 multiletter control sequences out of 15000+600000
  50374 words of font info for 132 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
  34i,12n,45p,786b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on sotuken_paper.dvi (42 pages, 81924 bytes).
+Output written on sotuken_paper.dvi (43 pages, 82172 bytes).
