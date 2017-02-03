@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2016.7.7)  3 FEB 2017 17:32
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2015.11.24)  3 FEB 2017 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -564,8 +564,8 @@ LaTeX Warning: Reference `fig:start_hdd' on page 40 undefined on input line 3.
 
 File: img/soft/DSC07946.jpg Graphic file (type bmp)
 <img/soft/DSC07946.jpg> [40]) (./kikai_huroku.tex [41]
-File: img/hard/f13.jpg Graphic file (type bmp)
- <img/hard/f13.jpg>
+File: img/hard/zentai.jpg Graphic file (type bmp)
+ <img/hard/zentai.jpg>
 File: img/hard/f11.jpg Graphic file (type bmp)
 
 <img/hard/f11.jpg> [42] [43]
@@ -597,11 +597,11 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  2893 strings out of 495129
- 34040 string characters out of 6182596
+ 34046 string characters out of 6182594
  91881 words of memory out of 5000000
  6108 multiletter control sequences out of 15000+600000
  50374 words of font info for 132 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
  34i,12n,45p,786b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on sotuken_paper.dvi (48 pages, 84904 bytes).
+Output written on sotuken_paper.dvi (48 pages, 84908 bytes).
