@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2016.7.7)  3 FEB 2017 18:17
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2016.7.7)  6 FEB 2017 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -548,38 +548,25 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 [37
 
 ] [38] [39] (./start.tex
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 3.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 3.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 3.
-
-
-LaTeX Warning: Reference `fig:start_hdd' on page 40 undefined on input line 3.
-
 File: img/soft/DSC07946.jpg Graphic file (type bmp)
-<img/soft/DSC07946.jpg> [40]) (./kikai_huroku.tex [41]
+ <img/soft/DSC07946.jpg> [40]) (./kikai_huroku.tex
+[41]
 File: img/hard/zentai.jpg Graphic file (type bmp)
- <img/hard/zentai.jpg>
-[42]
+ <img/hard/zentai.jpg> [42]
 File: img/hard/f11.jpg Graphic file (type bmp)
  <img/hard/f11.jpg> [43]
 File: img/hard/f12.jpg Graphic file (type bmp)
  <img/hard/f12.jpg>
 File: img/hard/f10.jpg Graphic file (type bmp)
- <img/hard/f10.jpg>
-File: img/hard/f9.jpg Graphic file (type bmp)
 
-<img/hard/f9.jpg>
+<img/hard/f10.jpg>
+File: img/hard/f9.jpg Graphic file (type bmp)
+ <img/hard/f9.jpg>
 File: img/hard/f8.jpg Graphic file (type bmp)
  <img/hard/f8.jpg>
 File: img/hard/f7.jpg Graphic file (type bmp)
- <img/hard/f7.jpg> [44]
+ <img/hard/f7.jpg>
+[44]
 
 LaTeX Warning: Text page 45 contains only floats.
 
@@ -589,19 +576,16 @@ File: img/hard/f6.jpg Graphic file (type bmp)
 File: img/hard/f5.jpg Graphic file (type bmp)
  <img/hard/f5.jpg> [46]) [47] [48] (./sotuken_paper.aux)
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2893 strings out of 495129
- 34046 string characters out of 6182596
+ 2887 strings out of 495129
+ 33970 string characters out of 6182596
  91881 words of memory out of 5000000
- 6108 multiletter control sequences out of 15000+600000
- 50374 words of font info for 132 fonts, out of 8000000 for 9000
+ 6103 multiletter control sequences out of 15000+600000
+ 48678 words of font info for 131 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
  34i,12n,45p,786b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on sotuken_paper.dvi (48 pages, 84932 bytes).
+Output written on sotuken_paper.dvi (48 pages, 84800 bytes).

@@ -40,12 +40,8 @@
 \subsection{プログラムの実行}
 \begin{enumerate}
 \item /home/ubuntu/Desktop/TsukubaChallge2016/tsukuba2016に移動する.
-\item 
+\item センサ類が全て接続されているのを確認する.
 \item フォルダ内のtsukuba2016を実行する.
-\item ロボットでsixpairを実行する
-\item ロボットで以下のコマンドを入力する.
-\item sudo hciconfig hci0 piscan
-\item sixad -s \&
-\item 「sixad started, press the PS button now」と表示されたらDualshock3のPSボタンを長押しする.
-\item Dualshock3が振動が収まり,ポートランプの１番が点灯したら接続が完了する.
+\item プログラムは待機モード起動し,□ボタンを押すと手動走行モード,△ボタンを押すと自律走行モードに移行する.
+\item 各モードからは×ボタンで待機モードに戻ることができ,待機モードでstartボタンを押すと終了する.
 \end{enumerate}
