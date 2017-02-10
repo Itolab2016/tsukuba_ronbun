@@ -1,0 +1,1 @@
+/usr/bin/c++     -Wno-deprecated    CMakeFiles/gps.dir/gpstest.cpp.o CMakeFiles/gps.dir/tsukuba_tkk.cpp.o CMakeFiles/gps.dir/navigation.cpp.o CMakeFiles/gps.dir/tsukuba_time.cpp.o CMakeFiles/gps.dir/joystick.cpp.o  -o gps  -L/usr/local/lib -rdynamic 

@@ -1,6 +1,16 @@
 \documentclass[12pt,oneside]{sotsuken_paper}
+\usepackage{listings}
+\renewcommand{\lstlistingname}{コード}
+\lstset{language=C,%
+        basicstyle=\footnotesize,%
+        commentstyle=\textit,%
+        classoffset=1,%
+        keywordstyle=\bfseries,%
+	frame=tRBl,framesep=5pt,%
+	showstringspaces=false,%
+        numbers=left,stepnumber=1,numberstyle=\footnotesize%
+	}%
 
-% タイトル
 \title{超低重心6輪独立懸架ローバーの画像情報による自律走行}
 \author{佐々井翔也・戸澗健・畠中和久}
 
@@ -148,8 +158,11 @@
  \end{center} 
 \end{figure} 
 
-\section{機械設計} 
 
+
+
+\section{機械設計}
+\newpage 
 \subsection{ハードウェア開発の狙い} 
 サスペンションを内蔵するハードウェアを制作する.つくばチャレンジ2016では走破性向上を目的として低重心を目標としているため,ハードウェアの全高を小さく設計することでその目標に尽くす.また今回のロボットの超低重心を実現するための数値を表\ref{tab:joken} に示す 
 
@@ -766,6 +779,27 @@ sudo ldconfig
 \newpage
 \input{start.tex}
 \input{kikai_huroku.tex}
+\newpage
+\section{ソースコード}
+\lstinputlisting[caption=つくばチャレンジ２０１６,label=tsukuba]{main.cpp}
+\lstinputlisting[caption=回避,label=tsukuba]{avoid.h}
+\lstinputlisting[caption=回避,label=tsukuba]{avoid.cpp}
+\lstinputlisting[caption=三次元復元,label=tsukuba]{camera.h}
+\lstinputlisting[caption=三次元復元,label=tsukuba]{camera.cpp}
+\lstinputlisting[caption=DUALSHOCK3,label=tsukuba]{joystick.h}
+\lstinputlisting[caption=DUALSHOCK3,label=tsukuba]{joystick.cpp}
+\lstinputlisting[caption=モーター,label=tsukuba]{motor.h}
+\lstinputlisting[caption=モーター,label=tsukuba]{motor.cpp}
+\lstinputlisting[caption=比例航法,label=tsukuba]{navigation.h}
+\lstinputlisting[caption=比例航法,label=tsukuba]{navigation.cpp}
+\lstinputlisting[caption=タイマー,label=tsukuba]{tsukuba_time.h}
+\lstinputlisting[caption=タイマー,label=tsukuba]{tsukuba_time.cpp}
+\lstinputlisting[caption=測域センサー,label=tsukuba]{tsukuba_urg.h}
+\lstinputlisting[caption=測域センサー,label=tsukuba]{tsukuba_urg.cpp}
+\lstinputlisting[caption=モーションセンサー,label=tsukuba]{tsukuba_tkk.h}
+\lstinputlisting[caption=モーションセンサー,label=tsukuba]{tsukuba_tkk.cpp}
+\lstinputlisting[caption=定義,label=tsukuba]{tsukuba_def.h}
+\lstinputlisting[caption=マップ生成,label=tsukuba]{match.cpp}
 \end{document}
 
 

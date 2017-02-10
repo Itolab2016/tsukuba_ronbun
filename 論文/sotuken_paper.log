@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2016.7.7)  6 FEB 2017 17:12
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2016.7.7)  6 FEB 2017 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -275,65 +275,130 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \f@ncyO@olf=\skip64
 \f@ncyO@orf=\skip65
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count109
+\lst@gtempboxa=\box45
+\lst@token=\toks31
+\lst@length=\count110
+\lst@currlwidth=\dimen142
+\lst@column=\count111
+\lst@pos=\count112
+\lst@lostspace=\dimen143
+\lst@width=\dimen144
+\lst@newlines=\count113
+\lst@lineno=\count114
+\lst@maxwidth=\dimen145
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+\c@lstnumber=\count115
+\lst@skipnumbers=\count116
+\lst@framebox=\box46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
+))
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2013/08/26 1.5b listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+)
 (./sotuken_paper.aux
 
 LaTeX Warning: Label `tab:op' multiply defined.
 
 
-LaTeX Warning: Label `fig:robot' multiply defined.
+LaTeX Warning: Label `tsukuba' multiply defined.
 
 
-LaTeX Warning: Label `fig:robot' multiply defined.
+LaTeX Warning: Label `tsukuba' multiply defined.
 
 
-LaTeX Warning: Label `fig:robot' multiply defined.
+LaTeX Warning: Label `tsukuba' multiply defined.
 
 
-LaTeX Warning: Label `fig:robot' multiply defined.
+LaTeX Warning: Label `tsukuba' multiply defined.
 
 
-LaTeX Warning: Label `fig:robot' multiply defined.
+LaTeX Warning: Label `tsukuba' multiply defined.
 
 
-LaTeX Warning: Label `fig:robot' multiply defined.
+LaTeX Warning: Label `tsukuba' multiply defined.
 
 
-LaTeX Warning: Label `fig:robot' multiply defined.
+LaTeX Warning: Label `tsukuba' multiply defined.
+
+
+LaTeX Warning: Label `tsukuba' multiply defined.
+
+
+LaTeX Warning: Label `tsukuba' multiply defined.
+
+
+LaTeX Warning: Label `tsukuba' multiply defined.
+
+
+LaTeX Warning: Label `tsukuba' multiply defined.
+
+
+LaTeX Warning: Label `tsukuba' multiply defined.
+
+
+LaTeX Warning: Label `tsukuba' multiply defined.
+
+
+LaTeX Warning: Label `tsukuba' multiply defined.
+
+
+LaTeX Warning: Label `tsukuba' multiply defined.
+
+
+LaTeX Warning: Label `tsukuba' multiply defined.
+
+
+LaTeX Warning: Label `tsukuba' multiply defined.
+
+
+LaTeX Warning: Label `tsukuba' multiply defined.
 
 )
 \openout1 = `sotuken_paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
  (I search kanjifont definition file: . . ) (I search font definition file: .
 . . . . . . )
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 7.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 17.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
+\c@lstlisting=\count117
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 16.
+(Font)              scaled to size 23.90964pt on input line 26.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 16.
+(Font)              scaled to size 23.90964pt on input line 26.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 16.
+(Font)              scaled to size 23.90964pt on input line 26.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 16.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 16.
+(Font)              scaled to size 23.90964pt on input line 26.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -402,29 +467,29 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  [2]
 第1章
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 21.
+(Font)              scaled to size 19.9311pt on input line 31.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 21.
+(Font)              scaled to size 19.9311pt on input line 31.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 21.
+(Font)              scaled to size 19.9311pt on input line 31.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 21.
+(Font)              scaled to size 19.9311pt on input line 31.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 22.
+(Font)              scaled to size 13.83836pt on input line 32.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 22.
+(Font)              scaled to size 13.83836pt on input line 32.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 22.
+(Font)              scaled to size 13.83836pt on input line 32.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 22.
+(Font)              scaled to size 13.83836pt on input line 32.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 24.
+(Font)              scaled to size 11.53198pt on input line 34.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 24.
+(Font)              scaled to size 11.53198pt on input line 34.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 24.
+(Font)              scaled to size 11.53198pt on input line 34.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 24.
+(Font)              scaled to size 11.53198pt on input line 34.
 [3
 
 ] [4]
@@ -432,47 +497,44 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 File: img/hard/tizu.jpg Graphic file (type bmp)
 <img/hard/tizu.jpg>
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 61.
+(Font)              scaled to size 8.64899pt on input line 71.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 61.
+(Font)              scaled to size 8.64899pt on input line 71.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 61.
+(Font)              scaled to size 8.64899pt on input line 71.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 61.
+(Font)              scaled to size 8.64899pt on input line 71.
  [5
 
 ] [6] [7] [8]
 第3章
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 106.
+(Font)              scaled to size 6.72699pt on input line 116.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 106.
+(Font)              scaled to size 4.805pt on input line 116.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 116.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 116.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 116.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 106.
+(Font)              scaled to size 6.72699pt on input line 116.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 4.805pt on input line 106.
+(Font)              scaled to size 4.805pt on input line 116.
 File: img/hard/gaikan.jpg Graphic file (type bmp)
 <img/hard/gaikan.jpg>
 File: img/hard/sisutemu.png Graphic file (type bmp)
  <img/hard/sisutemu.png> [9
 
-]
-Overfull \vbox (2.32329pt too high) has occurred while \output is active []
-
-
-[10] [11]
+] [10] [11]
 File: img/hard/fig1.png Graphic file (type bmp)
- <img/hard/fig1.png>
+
+<img/hard/fig1.png>
 File: img/hard/fig2.png Graphic file (type bmp)
- <img/hard/fig2.png>
+ <img/hard/fig2.png> [12]
 File: img/hard/fig3.png Graphic file (type bmp)
- <img/hard/fig3.png> [12]
+ <img/hard/fig3.png>
 File: img/hard/fig4.png Graphic file (type bmp)
 
 <img/hard/fig4.png> [13] [14]
@@ -480,6 +542,9 @@ File: img/hard/fig5.png Graphic file (type bmp)
  <img/hard/fig5.png>
 File: img/hard/fig6.png Graphic file (type bmp)
  <img/hard/fig6.png> [15]
+
+LaTeX Warning: Text page 16 contains only floats.
+
 [16] [17]
 File: img/hard/fig7.png Graphic file (type bmp)
  <img/hard/fig7.png>
@@ -487,74 +552,75 @@ File: img/hard/fig8.png Graphic file (type bmp)
  <img/hard/fig8.png>
 File: img/hard/4.png Graphic file (type bmp)
  <img/hard/4.png>
-Overfull \hbox (7.11319pt too wide) in paragraph at lines 346--347
+Overfull \hbox (7.11319pt too wide) in paragraph at lines 359--360
  [] 
  []
 
+[18]
 File: img/hard/3.png Graphic file (type bmp)
-<img/hard/3.png> [18] [19]
+ <img/hard/3.png> [19]
 File: img/hard/kairozu.png Graphic file (type bmp)
  <img/hard/kairozu.png> [20]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Text page 21 contains only floats.
 
-[21] [22]
+[21] [22] [23]
 第4章
-[23
+[24
 
 ]
 File: img/soft/sankaku2.png Graphic file (type bmp)
- <img/soft/sankaku2.png> [24]
+ <img/soft/sankaku2.png> [25]
 File: img/soft/sankaku1.png Graphic file (type bmp)
- <img/soft/sankaku1.png> [25]
+ <img/soft/sankaku1.png> [26]
 File: img/soft/surf.png Graphic file (type bmp)
 
-<img/soft/surf.png> [26]
+<img/soft/surf.png> [27]
 File: img/soft/chou.png Graphic file (type bmp)
- <img/soft/chou.png> [27]
+ <img/soft/chou.png> [28]
 File: img/soft/motion.jpg Graphic file (type bmp)
  <img/soft/motion.jpg>
 (./zahyou.tex
 File: img/soft/zahyou.png Graphic file (type bmp)
- <img/soft/zahyou.png> [28]
+ <img/soft/zahyou.png> [29] [30]
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 6.72699pt on input line 30.
-) [29]
+) [31]
 第5章
 File: img/soft/1.png Graphic file (type bmp)
-<img/soft/1.png> [30
+<img/soft/1.png> [32
 
 ]
 File: img/soft/2.png Graphic file (type bmp)
  <img/soft/2.png>
 File: img/soft/gps.png Graphic file (type bmp)
- <img/soft/gps.png> [31] [32]
+ <img/soft/gps.png> [33] [34]
 第6章
-[33
+[35
 
-] [34] [35
+] [36] [37
 
-] [36
+] [38
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 667.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 680.
 
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 667.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 680.
 
-[37
+[39
 
-] [38] [39] (./start.tex
+] [40] [41] (./start.tex
 File: img/soft/DSC07946.jpg Graphic file (type bmp)
- <img/soft/DSC07946.jpg> [40]) (./kikai_huroku.tex
-[41]
+ <img/soft/DSC07946.jpg> [42]) (./kikai_huroku.tex
+[43]
 File: img/hard/zentai.jpg Graphic file (type bmp)
- <img/hard/zentai.jpg> [42]
+ <img/hard/zentai.jpg> [44]
 File: img/hard/f11.jpg Graphic file (type bmp)
- <img/hard/f11.jpg> [43]
+ <img/hard/f11.jpg> [45]
 File: img/hard/f12.jpg Graphic file (type bmp)
  <img/hard/f12.jpg>
 File: img/hard/f10.jpg Graphic file (type bmp)
@@ -566,26 +632,170 @@ File: img/hard/f8.jpg Graphic file (type bmp)
  <img/hard/f8.jpg>
 File: img/hard/f7.jpg Graphic file (type bmp)
  <img/hard/f7.jpg>
-[44]
+[46]
 
-LaTeX Warning: Text page 45 contains only floats.
+LaTeX Warning: Text page 47 contains only floats.
 
-[45]
+[47] [48]
 File: img/hard/f6.jpg Graphic file (type bmp)
  <img/hard/f6.jpg>
 File: img/hard/f5.jpg Graphic file (type bmp)
- <img/hard/f5.jpg> [46]) [47] [48] (./sotuken_paper.aux)
+ <img/hard/f5.jpg>) [49] [50] (./main.cpp
+LaTeX Font Info:    Font shape `JT1/mc/m/it' in size <8> not available
+(Font)              Font shape `JT1/mc/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/m/it' in size <8> not available
+(Font)              Font shape `JY1/mc/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 1.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <8> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 4.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <8> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 4.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+ [51]
+LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
+
+[52] [53]) (./avoid.h) [54] (./avoid.cpp [55] [56]) (./camera.h [57]
+Overfull \hbox (146.72762pt too wide) in paragraph at lines 28--29
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+) (./camera.cpp [58] [59]
+Overfull \hbox (161.12776pt too wide) in paragraph at lines 83--85
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][] 
+ []
+
+
+Overfull \hbox (60.32674pt too wide) in paragraph at lines 92--94
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.32674pt too wide) in paragraph at lines 95--96
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+[60]
+Overfull \hbox (2.72615pt too wide) in paragraph at lines 157--158
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[61] [62]) (./joystick.h [63]) (./joystick.cpp [64]
+Overfull \hbox (74.72688pt too wide) in paragraph at lines 33--35
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+
+ []
+
+[65]) (./motor.h [66]) (./motor.cpp [67] [68]) (./navigation.h
+Overfull \hbox (103.52718pt too wide) in paragraph at lines 28--29
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[69]
+Overfull \hbox (12.32625pt too wide) in paragraph at lines 54--55
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) (./navigation.cpp [70] [71] [72] [73]
+Overfull \hbox (65.12679pt too wide) in paragraph at lines 195--197
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+[74] [75]
+Overfull \hbox (12.32625pt too wide) in paragraph at lines 283--284
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][] 
+ []
+
+[76] [77] [78]) (./tsukuba_time.h [79]) (./tsukuba_time.cpp
+Overfull \hbox (2.72615pt too wide) in paragraph at lines 13--14
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[80] [81]
+Overfull \hbox (21.92635pt too wide) in paragraph at lines 125--126
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+[82] [83]) (./tsukuba_urg.h) (./tsukuba_urg.cpp [84] [85]
+Overfull \hbox (60.32674pt too wide) in paragraph at lines 57--58
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) (./tsukuba_tkk.h [86]) (./tsukuba_tkk.cpp [87] [88] [89] [90]
+Overfull \hbox (185.128pt too wide) in paragraph at lines 220--221
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[91] [92] [93] [94] [95]
+Overfull \hbox (185.128pt too wide) in paragraph at lines 453--454
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[96]) (./tsukuba_def.h [97]) (./match.cpp [98] [99]
+Overfull \hbox (50.72664pt too wide) in paragraph at lines 72--73
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (50.72664pt too wide) in paragraph at lines 88--91
+[][][][][] 
+ []
+
+
+Overfull \hbox (31.52644pt too wide) in paragraph at lines 103--104
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[100]
+Overfull \hbox (41.12654pt too wide) in paragraph at lines 144--145
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[101] [102] [103] [104]
+Overfull \hbox (89.12703pt too wide) in paragraph at lines 352--353
+[][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (45.92659pt too wide) in paragraph at lines 357--358
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (45.92659pt too wide) in paragraph at lines 358--360
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[105]) [106] (./sotuken_paper.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2887 strings out of 495129
- 33970 string characters out of 6182596
- 91881 words of memory out of 5000000
- 6103 multiletter control sequences out of 15000+600000
- 48678 words of font info for 131 fonts, out of 8000000 for 9000
+ 5574 strings out of 495129
+ 69517 string characters out of 6182596
+ 178045 words of memory out of 5000000
+ 8718 multiletter control sequences out of 15000+600000
+ 57385 words of font info for 145 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
- 34i,12n,45p,786b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,49p,786b,1754s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on sotuken_paper.dvi (48 pages, 84800 bytes).
+Output written on sotuken_paper.dvi (106 pages, 535292 bytes).

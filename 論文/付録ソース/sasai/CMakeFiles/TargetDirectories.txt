@@ -1,0 +1,8 @@
+/home/tomas/Desktop/0125/sasai/CMakeFiles/rebuild_cache.dir
+/home/tomas/Desktop/0125/sasai/CMakeFiles/gps.dir
+/home/tomas/Desktop/0125/sasai/CMakeFiles/viewer.dir
+/home/tomas/Desktop/0125/sasai/CMakeFiles/3Dworld.dir
+/home/tomas/Desktop/0125/sasai/CMakeFiles/edit_cache.dir
+/home/tomas/Desktop/0125/sasai/CMakeFiles/match.dir
+/home/tomas/Desktop/0125/sasai/CMakeFiles/drone_Rt.dir
+/home/tomas/Desktop/0125/sasai/CMakeFiles/imwrite.dir

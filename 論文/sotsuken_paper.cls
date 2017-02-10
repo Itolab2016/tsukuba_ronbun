@@ -70,7 +70,7 @@
 % ページ余白関連（A4：210 mm × 297 mm、1 インチ = 25.4 mm）
 % http://www.nsknet.or.jp/~tony/TeX/faq/layout.htm
 \setlength{\topmargin}{-2truemm}
-\setlength{\textheight}{253truemm}
+\setlength{\textheight}{238truemm}
 \setlength{\headheight}{0pt}
 \setlength{\headsep}{0truemm}
 \setlength{\oddsidemargin}{-4.4truemm}

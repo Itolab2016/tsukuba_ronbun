@@ -1,0 +1,165 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/tomas/sasai/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_432af/fast"
+/usr/bin/make -f CMakeFiles/cmTC_432af.dir/build.make CMakeFiles/cmTC_432af.dir/build
+make[1]: ディレクトリ '/home/tomas/sasai/CMakeFiles/CMakeTmp' に入ります
+Building C object CMakeFiles/cmTC_432af.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_432af.dir/CheckSymbolExists.c.o   -c /home/tomas/sasai/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_432af
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_432af.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_432af.dir/CheckSymbolExists.c.o  -o cmTC_432af -rdynamic 
+CMakeFiles/cmTC_432af.dir/CheckSymbolExists.c.o: 関数 `main' 内:
+CheckSymbolExists.c:(.text+0x16): `pthread_create' に対する定義されていない参照です
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_432af.dir/build.make:97: ターゲット 'cmTC_432af' のレシピで失敗しました
+make[1]: *** [cmTC_432af] エラー 1
+make[1]: ディレクトリ '/home/tomas/sasai/CMakeFiles/CMakeTmp' から出ます
+Makefile:126: ターゲット 'cmTC_432af/fast' のレシピで失敗しました
+make: *** [cmTC_432af/fast] エラー 2
+
+File /home/tomas/sasai/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/tomas/sasai/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_18922/fast"
+/usr/bin/make -f CMakeFiles/cmTC_18922.dir/build.make CMakeFiles/cmTC_18922.dir/build
+make[1]: ディレクトリ '/home/tomas/sasai/CMakeFiles/CMakeTmp' に入ります
+Building C object CMakeFiles/cmTC_18922.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_18922.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_18922
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_18922.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_18922.dir/CheckFunctionExists.c.o  -o cmTC_18922 -rdynamic -lpthreads 
+/usr/bin/ld: -lpthreads が見つかりません
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_18922.dir/build.make:97: ターゲット 'cmTC_18922' のレシピで失敗しました
+make[1]: *** [cmTC_18922] エラー 1
+make[1]: ディレクトリ '/home/tomas/sasai/CMakeFiles/CMakeTmp' から出ます
+Makefile:126: ターゲット 'cmTC_18922/fast' のレシピで失敗しました
+make: *** [cmTC_18922/fast] エラー 2
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/tomas/sasai/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d47c2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d47c2.dir/build.make CMakeFiles/cmTC_d47c2.dir/build
+make[1]: ディレクトリ '/home/tomas/sasai/CMakeFiles/CMakeTmp' に入ります
+Building C object CMakeFiles/cmTC_d47c2.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_d47c2.dir/CheckSymbolExists.c.o   -c /home/tomas/sasai/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_d47c2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d47c2.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_d47c2.dir/CheckSymbolExists.c.o  -o cmTC_d47c2 -rdynamic 
+CMakeFiles/cmTC_d47c2.dir/CheckSymbolExists.c.o: 関数 `main' 内:
+CheckSymbolExists.c:(.text+0x16): `pthread_create' に対する定義されていない参照です
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_d47c2.dir/build.make:97: ターゲット 'cmTC_d47c2' のレシピで失敗しました
+make[1]: *** [cmTC_d47c2] エラー 1
+make[1]: ディレクトリ '/home/tomas/sasai/CMakeFiles/CMakeTmp' から出ます
+Makefile:126: ターゲット 'cmTC_d47c2/fast' のレシピで失敗しました
+make: *** [cmTC_d47c2/fast] エラー 2
+
+File /home/tomas/sasai/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/tomas/sasai/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a4a1e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a4a1e.dir/build.make CMakeFiles/cmTC_a4a1e.dir/build
+make[1]: ディレクトリ '/home/tomas/sasai/CMakeFiles/CMakeTmp' に入ります
+Building C object CMakeFiles/cmTC_a4a1e.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_a4a1e.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a4a1e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a4a1e.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_a4a1e.dir/CheckFunctionExists.c.o  -o cmTC_a4a1e -rdynamic -lpthreads 
+/usr/bin/ld: -lpthreads が見つかりません
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_a4a1e.dir/build.make:97: ターゲット 'cmTC_a4a1e' のレシピで失敗しました
+make[1]: *** [cmTC_a4a1e] エラー 1
+make[1]: ディレクトリ '/home/tomas/sasai/CMakeFiles/CMakeTmp' から出ます
+Makefile:126: ターゲット 'cmTC_a4a1e/fast' のレシピで失敗しました
+make: *** [cmTC_a4a1e/fast] エラー 2
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/tomas/Desktop/0125/sasai/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_27d03/fast"
+/usr/bin/make -f CMakeFiles/cmTC_27d03.dir/build.make CMakeFiles/cmTC_27d03.dir/build
+make[1]: ディレクトリ '/home/tomas/Desktop/0125/sasai/CMakeFiles/CMakeTmp' に入ります
+Building C object CMakeFiles/cmTC_27d03.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_27d03.dir/CheckSymbolExists.c.o   -c /home/tomas/Desktop/0125/sasai/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_27d03
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_27d03.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_27d03.dir/CheckSymbolExists.c.o  -o cmTC_27d03 -rdynamic 
+CMakeFiles/cmTC_27d03.dir/CheckSymbolExists.c.o: 関数 `main' 内:
+CheckSymbolExists.c:(.text+0x16): `pthread_create' に対する定義されていない参照です
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_27d03.dir/build.make:97: ターゲット 'cmTC_27d03' のレシピで失敗しました
+make[1]: *** [cmTC_27d03] エラー 1
+make[1]: ディレクトリ '/home/tomas/Desktop/0125/sasai/CMakeFiles/CMakeTmp' から出ます
+Makefile:126: ターゲット 'cmTC_27d03/fast' のレシピで失敗しました
+make: *** [cmTC_27d03/fast] エラー 2
+
+File /home/tomas/Desktop/0125/sasai/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/tomas/Desktop/0125/sasai/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3e114/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3e114.dir/build.make CMakeFiles/cmTC_3e114.dir/build
+make[1]: ディレクトリ '/home/tomas/Desktop/0125/sasai/CMakeFiles/CMakeTmp' に入ります
+Building C object CMakeFiles/cmTC_3e114.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_3e114.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_3e114
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3e114.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_3e114.dir/CheckFunctionExists.c.o  -o cmTC_3e114 -rdynamic -lpthreads 
+/usr/bin/ld: -lpthreads が見つかりません
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_3e114.dir/build.make:97: ターゲット 'cmTC_3e114' のレシピで失敗しました
+make[1]: *** [cmTC_3e114] エラー 1
+make[1]: ディレクトリ '/home/tomas/Desktop/0125/sasai/CMakeFiles/CMakeTmp' から出ます
+Makefile:126: ターゲット 'cmTC_3e114/fast' のレシピで失敗しました
+make: *** [cmTC_3e114/fast] エラー 2
+
+
