@@ -204,7 +204,7 @@
 
 \begin{figure}[htp] 
  \begin{center} 
-  \includegraphics[width=100mm]{img/hard/fig3.png} 
+  \includegraphics[width=100mm]{img/hard/sekkeizu.png} 
  　\caption{6輪ローバ} 
   \label{fig:rokurin}%ここに文章中で使用する名前を指定する 
  \end{center} 
@@ -372,7 +372,24 @@ FACは式(14)と式(18)より
 
 
 \subsection{超堤・超壕能力} 
-今回作成したロボットの性能を調査するため,超堤・超壕実験を行った結果,超堤:110[mm],超壕220[mm]が得られた. 
+今回作成したロボットの性能を調査するため,超堤・超壕実験を行った結果,超堤:110[mm],超壕220[mm]が得られた.
+\begin{table}[h] 
+ 　\begin{center} 
+    \caption{実験条件} 
+    \small 
+  \scalebox{0.85}{ 
+  \begin{tabular}{|c|c|c|} \hline 
+    条件 &　超堤 & 超壕 \\ \hline 
+    実験速度 & 4m/h & 4m/h \\ \hline 
+     助走 & 300mm & 0mm \\ \hline
+     使用場所 & 木製の台 & 学校内の段差　\\ \hline 
+     使用タイヤ直径 & 190mm & 190mm \\ \hline 
+    
+  \end{tabular} 
+  } 
+　   \label{tab:op} 
+  \end{center} 
+\end{table}  
 
 \subsection{電気設計} 
 ロボットに搭載したモータドライバの回路図を図\ref{fig:denkikairo}に示し,使用した部品を表\ref{tab:denkibuhin}に示す.モータドライバは各Dモジュールに1つづつの設置とした. 
