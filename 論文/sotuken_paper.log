@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2015.12.22)  10 FEB 2017 16:54
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013/Debian) (format=platex 2015.12.22)  13 FEB 2017 18:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -561,65 +561,70 @@ Overfull \hbox (7.11319pt too wide) in paragraph at lines 359--360
 
 [18]
 File: img/hard/3.png Graphic file (type bmp)
- <img/hard/3.png> [19] [20]
+ <img/hard/3.png> [19]
+File: img/hard/tyoteii.png Graphic file (type bmp)
+ <img/hard/tyoteii.png>
+File: img/hard/tyogouu.png Graphic file (type bmp)
+ <img/hard/tyogouu.png>
+[20]
 File: img/hard/kairozu.png Graphic file (type bmp)
- <img/hard/kairozu.png> [21] [22] [23]
+ <img/hard/kairozu.png> [21] [22] [23] [24]
 第4章
-[24
+[25
 
 ]
 File: img/soft/sankaku2.png Graphic file (type bmp)
- <img/soft/sankaku2.png> [25]
+ <img/soft/sankaku2.png> [26]
 File: img/soft/sankaku1.png Graphic file (type bmp)
- <img/soft/sankaku1.png> [26]
+ <img/soft/sankaku1.png> [27]
 File: img/soft/surf.png Graphic file (type bmp)
 
-<img/soft/surf.png> [27]
+<img/soft/surf.png> [28]
 File: img/soft/chou.png Graphic file (type bmp)
- <img/soft/chou.png> [28]
+ <img/soft/chou.png> [29]
 File: img/soft/motion.jpg Graphic file (type bmp)
  <img/soft/motion.jpg>
 (./zahyou.tex
 File: img/soft/zahyou.png Graphic file (type bmp)
- <img/soft/zahyou.png> [29] [30]
+ <img/soft/zahyou.png> [30] [31]
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 6.72699pt on input line 30.
-) [31]
+) [32]
 第5章
 File: img/soft/1.png Graphic file (type bmp)
-<img/soft/1.png> [32
+<img/soft/1.png> [33
 
 ]
 File: img/soft/2.png Graphic file (type bmp)
  <img/soft/2.png>
 File: img/soft/gps.png Graphic file (type bmp)
- <img/soft/gps.png> [33] [34]
+ <img/soft/gps.png> [34] [35]
 第6章
-[35
+[36
 
-] [36] [37
+] [37] [38
 
-] [38
+] [39
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 697.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 719.
 
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 697.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 719.
 
-[39
+[40
 
-] [40] [41] (./start.tex
+] [41] [42] (./start.tex
 File: img/soft/DSC07946.jpg Graphic file (type bmp)
- <img/soft/DSC07946.jpg> [42]) (./kikai_huroku.tex
-[43]
+ <img/soft/DSC07946.jpg> [43]) (./kikai_huroku.tex
+[44]
 File: img/hard/zentai.jpg Graphic file (type bmp)
- <img/hard/zentai.jpg> [44]
+ <img/hard/zentai.jpg> [45]
 File: img/hard/f11.jpg Graphic file (type bmp)
- <img/hard/f11.jpg> [45]
+ <img/hard/f11.jpg> [46]
 File: img/hard/f12.jpg Graphic file (type bmp)
  <img/hard/f12.jpg>
 File: img/hard/f10.jpg Graphic file (type bmp)
@@ -631,15 +636,15 @@ File: img/hard/f8.jpg Graphic file (type bmp)
  <img/hard/f8.jpg>
 File: img/hard/f7.jpg Graphic file (type bmp)
  <img/hard/f7.jpg>
-[46]
+[47]
 
-LaTeX Warning: Text page 47 contains only floats.
+LaTeX Warning: Text page 48 contains only floats.
 
-[47] [48]
+[48] [49]
 File: img/hard/f6.jpg Graphic file (type bmp)
  <img/hard/f6.jpg>
 File: img/hard/f5.jpg Graphic file (type bmp)
- <img/hard/f5.jpg>) [49] [50] (./main.cpp
+ <img/hard/f5.jpg>) [50] [51] (./main.cpp
 LaTeX Font Info:    Font shape `JT1/mc/m/it' in size <8> not available
 (Font)              Font shape `JT1/mc/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
@@ -660,19 +665,19 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
- [51]
+ [52]
 LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 
-[52] [53]) (./avoid.h) [54] (./avoid.cpp [55] [56]) (./camera.h [57]
+[53] [54]) (./avoid.h) [55] (./avoid.cpp [56] [57]) (./camera.h [58]
 Overfull \hbox (146.72762pt too wide) in paragraph at lines 28--29
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ] 
  []
 
-) (./camera.cpp [58] [59]
+) (./camera.cpp [59] [60]
 Overfull \hbox (161.12776pt too wide) in paragraph at lines 83--85
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][] 
@@ -689,66 +694,66 @@ Overfull \hbox (60.32674pt too wide) in paragraph at lines 95--96
 ] 
  []
 
-[60]
+[61]
 Overfull \hbox (2.72615pt too wide) in paragraph at lines 157--158
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[61] [62]) (./joystick.h [63]) (./joystick.cpp [64]
+[62] [63]) (./joystick.h [64]) (./joystick.cpp [65]
 Overfull \hbox (74.72688pt too wide) in paragraph at lines 33--35
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
 
  []
 
-[65]) (./motor.h [66]) (./motor.cpp [67] [68]) (./navigation.h
+[66]) (./motor.h [67]) (./motor.cpp [68] [69]) (./navigation.h
 Overfull \hbox (103.52718pt too wide) in paragraph at lines 28--29
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[69]
+[70]
 Overfull \hbox (12.32625pt too wide) in paragraph at lines 54--55
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-) (./navigation.cpp [70] [71] [72] [73]
+) (./navigation.cpp [71] [72] [73] [74]
 Overfull \hbox (65.12679pt too wide) in paragraph at lines 195--197
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][] 
  []
 
-[74] [75]
+[75] [76]
 Overfull \hbox (12.32625pt too wide) in paragraph at lines 283--284
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][] 
  []
 
-[76] [77] [78]) (./tsukuba_time.h [79]) (./tsukuba_time.cpp
+[77] [78] [79]) (./tsukuba_time.h [80]) (./tsukuba_time.cpp
 Overfull \hbox (2.72615pt too wide) in paragraph at lines 13--14
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[80] [81]
+[81] [82]
 Overfull \hbox (21.92635pt too wide) in paragraph at lines 125--126
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ] 
  []
 
-[82] [83]) (./tsukuba_urg.h) (./tsukuba_urg.cpp [84] [85]
+[83] [84]) (./tsukuba_urg.h) (./tsukuba_urg.cpp [85] [86]
 Overfull \hbox (60.32674pt too wide) in paragraph at lines 57--58
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-) (./tsukuba_tkk.h [86]) (./tsukuba_tkk.cpp [87] [88] [89] [90]
+) (./tsukuba_tkk.h [87]) (./tsukuba_tkk.cpp [88] [89] [90] [91]
 Overfull \hbox (185.128pt too wide) in paragraph at lines 220--221
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[91] [92] [93] [94] [95]
+[92] [93] [94] [95] [96]
 Overfull \hbox (185.128pt too wide) in paragraph at lines 453--454
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[96]) (./tsukuba_def.h [97]) (./match.cpp [98] [99]
+[97]) (./tsukuba_def.h [98]) (./match.cpp [99] [100]
 Overfull \hbox (50.72664pt too wide) in paragraph at lines 72--73
 [][][][][][][][][][][][][][][][] 
  []
@@ -763,12 +768,12 @@ Overfull \hbox (31.52644pt too wide) in paragraph at lines 103--104
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[100]
+[101]
 Overfull \hbox (41.12654pt too wide) in paragraph at lines 144--145
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[101] [102] [103] [104]
+[102] [103] [104] [105]
 Overfull \hbox (89.12703pt too wide) in paragraph at lines 352--353
 [][][][][][][][][][][][] 
  []
@@ -783,18 +788,18 @@ Overfull \hbox (45.92659pt too wide) in paragraph at lines 358--360
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[105]) [106] (./sotuken_paper.aux)
+[106]) [107] (./sotuken_paper.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5574 strings out of 495129
- 69525 string characters out of 6182594
+ 5580 strings out of 495129
+ 69610 string characters out of 6182594
  178045 words of memory out of 5000000
- 8718 multiletter control sequences out of 15000+600000
+ 8722 multiletter control sequences out of 15000+600000
  57385 words of font info for 145 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
  34i,12n,49p,786b,1754s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on sotuken_paper.dvi (106 pages, 536036 bytes).
+Output written on sotuken_paper.dvi (107 pages, 536436 bytes).
